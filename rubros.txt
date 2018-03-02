@@ -1,0 +1,4 @@
+granos
+azucar
+lacteos
+arroz
